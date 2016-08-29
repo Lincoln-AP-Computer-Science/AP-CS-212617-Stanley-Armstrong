@@ -15,7 +15,9 @@ public class JavaHomewrok {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        DrawRectangle j = new DrawRectangle();
         
-    }
     
+    
+}
 }
