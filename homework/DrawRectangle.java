@@ -1,5 +1,3 @@
-package javahomewrok;
-
 public class DrawRectangle{
     public static void drawHorizontal(){
         System.out.println("+---+");
